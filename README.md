@@ -1,2 +1,2 @@
-# .github
-Thhe Socialcap index repo
+# Socialcap Proyect
+The Socialcap index repo for v2
