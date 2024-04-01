@@ -20,11 +20,13 @@ In [Socialcap](https://socialcap.app), we tackle these issues in an innovative w
 
 - Our approach is fortified by [MINA Protocol's](https://minaprotocol.com/) unique Zero-Knowledge (ZK) privacy and proving capabilities.
 
-**Socialcap goes beyond traditional credentialing systems, offering community based decentralized voting and issuance, and a privacy-focused solution that aligns with the principles of the Open Web communities. By combining social consensus and MINA's ZK unique capabilities, we have established a robust and reliable credentialing system for the future of online communities.**
+**Socialcap goes beyond traditional credentialing systems, offering community based decentralized voting and issuance, and a privacy-focused solution that aligns with the principles of the Open Web communities.** 
+
+**By combining social consensus and MINA's ZK unique capabilities, we have established a robust and reliable credentialing system for the future of online communities.**
 
 ## The project
 
-This is the index to the **Socialcap version2 project** repos and other public tool of the Socialcap team:
+This is the index to the **Socialcap version2 project** public tools for the Socialcap community:
 
 - **Discussions**: refer to the [Discussions tab](https://github.com/Socialcap-app/.github/discussions) tab for public ideas, features and improvement discussions.
 - **Issues**: refer to the [Issues tab](https://github.com/Socialcap-app/.github/issues) for reporting bugs, problems and other issues.
