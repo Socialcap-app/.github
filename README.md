@@ -26,7 +26,7 @@ In [Socialcap](https://socialcap.app), we tackle these issues in an innovative w
 
 ## The project
 
-This is the index to the **Socialcap version2 project** repos and other public tool of the Socialcap team:
+This is the index to the **Socialcap version2 project** repos and other public tool for the Socialcap community:
 
 - **Discussions**: refer to the [Discussions tab](https://github.com/Socialcap-app/.github/discussions) tab for public ideas, features and improvement discussions.
 - **Issues**: refer to the [Issues tab](https://github.com/Socialcap-app/.github/issues) for reporting bugs, problems and other issues.
